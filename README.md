@@ -7,4 +7,4 @@ Divide: /
 Square root: @
 Power: ^
 
-Made alongside @Ashwin-Poudel
+Made alongside @Ashwin-Paudel
